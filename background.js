@@ -1,4 +1,4 @@
-console.log('worked');
+﻿console.log('worked');
 
 //get ip
 var ipList = {};
