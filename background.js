@@ -3,7 +3,7 @@
 //get ip
 var ipList = {};
 chrome.webRequest.onCompleted.addListener(
-	function(info) {
+	function(info) {	
 		ipList[info.url] = info.ip;
 		ipList[info.tabId] = ipList[info.tabId] || [];
 		ipList[info.tabId].push(info);

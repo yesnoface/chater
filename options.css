@@ -1,0 +1,10 @@
+body{
+	background-color: #202020;
+}
+
+p.title{
+	color: #d0d0d0;
+	font-size: 2em;
+	margin: 0;
+	padding: 0;
+}
