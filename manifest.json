@@ -33,12 +33,14 @@
 	[
 		"*://*/*",
 		"contextMenus",
+		"identity",
 		"notifications",
 		"tabs",
+		"tabCapture",
 		"unlimitedStorage",
 		"webRequest"
 	],
-	"version": "2014.08.04",
+	"version": "0.8.4",
 	"web_accessible_resources":
 	[
 		"16.png",
